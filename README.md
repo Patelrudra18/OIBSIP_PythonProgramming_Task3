@@ -5,9 +5,13 @@
 ### Internship Details
 
 **Name:** Patel Rudra
+
 **Domain:** Python Programming
+
 **Task Number:** 3
+
 **Task Title:** Password Generator
+
 **Organization:** Oasis Infobyte (OIBSIP)
 
 ---
