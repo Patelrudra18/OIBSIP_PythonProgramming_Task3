@@ -119,6 +119,4 @@ OIBSIP_PythonProgramming_Task3/
 Python Programming Intern
 Oasis Infobyte (OIBSIP)
 
----
-
-**AICTE OIB-SIP May 2026**
+--
